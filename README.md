@@ -200,3 +200,7 @@ camera.keyframe_insert(data_path=f'constraints["{follow_path.name}"].offset_fact
 Esto permite que la cámara recorra todo el escenario de manera automática.
 
 ![AnimationEscenario](https://github.com/user-attachments/assets/834081e9-e320-46e6-93c3-9a6c4dce473e)
+
+<img width="898" height="514" alt="image" src="https://github.com/user-attachments/assets/60d57753-120b-45a4-9bc2-f2777f883363" />
+
+
