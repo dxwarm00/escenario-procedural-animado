@@ -203,4 +203,12 @@ Esto permite que la cámara recorra todo el escenario de manera automática.
 
 <img width="898" height="514" alt="image" src="https://github.com/user-attachments/assets/60d57753-120b-45a4-9bc2-f2777f883363" />
 
+---
 
+## 💾 Código Fuente del Proyecto
+
+Para mantener este documento legible, el código completo del escenario procedural (incluyendo la lógica de la curva y la animación de cámara) se encuentra en un archivo separado.
+
+👉 **[Ver script completo aquí: escenario_final.py](./escenario_final.py)**
+
+---
